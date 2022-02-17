@@ -1,0 +1,8 @@
+Start
+Read number n
+[Initialize] sum = 0, i = 1
+Repeat step 4 through 6 until i <+ n
+sum = sum + (i*i)
+i=i+1
+print the sum of squere
+stop
